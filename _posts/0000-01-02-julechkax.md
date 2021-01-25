@@ -2,5 +2,5 @@
 layout:slide
 title: "welcome to our second slide!"
 ---
-Your text
+Markdown is supported
 Use the left arrow to go back!
